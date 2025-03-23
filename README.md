@@ -3,7 +3,8 @@
 FinanceBro is an AI-driven financial analysis platform that leverages LLM capabilities alongside retrieval-augmented generation (RAG) pipelines and agent loops. Designed for financial analysts and up and coming "finance bros" that explains reasoning through natural language processing (NLP) models. The platform integrates real-time data ingestion, technical indicators, and research-driven insights to provides real-time stock analysis, portfolio recommendations, and market insights.
 
 
-![FinanceBro Screenshot](screenshot.png)
+![FinanceBro Screenshot](https://github.com/Shayan925/finance-bro/blob/main/Screenshot.png)
+
 
 
 
