@@ -30,7 +30,7 @@ FinanceBro is an AI-driven financial analysis platform that leverages LLM capabi
 |----------------|-----------------------------------------------------------------------------|
 | Frontend       | React, TypeScript, TailwindCSS, Vite                                        |
 | Backend        | Supabase, RestAPIs                           |
-| Database       | PostgreSQL, SQLite                                                                   |
+| Database       | PostgreSQL                                                              |
 | Deployment     | Docker, Docker Compose                                                      |
 
 ## System Architecture
